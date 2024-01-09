@@ -1,2 +1,5 @@
-# roman-numerals-to-number
-Convert roman numerals to a number with ease.
+# Roman Numerals to Number [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Convert roman numerals to a number with ease.
+
+Try demo: https://tools.waytolearnx.com/roman-numerals-to-number
